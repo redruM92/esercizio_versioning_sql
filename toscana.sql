@@ -1,4 +1,4 @@
-INSERT TO table_testDB
+INSERT TO toscana
 VALUES 
 (1, "Siena", "SI")
 (2, "Arezzo", "AR")
