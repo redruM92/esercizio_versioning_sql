@@ -1,0 +1,1 @@
+Esercizio di prova con SQL e GIT
