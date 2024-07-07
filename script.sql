@@ -10,4 +10,3 @@ VALUES
 (8, "Prato", "PO")
 (9, "Grosseto", "GR")
 (10, "Massa-Carrara", "MS")
-(11, "Livorno", "LI")
